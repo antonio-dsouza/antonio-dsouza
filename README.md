@@ -10,7 +10,7 @@
 
 - 📚 Learning about ReactJS and NextJS;
 
-- 🔭 I’m currently looking for a job in the technology field.
+- 🔭 I’m currently working as a junior programmer at La Salle University.
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
