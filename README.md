@@ -16,8 +16,6 @@
 
 - 👊 Driven by concrete goals and well-defined goals. I will make it happen.
 
-- 🔥 I like to play e-sports.
-
 - 🏆 "Tudo o que temos de decidir é o que fazer com o tempo que nos é dado".
 
 </p>
