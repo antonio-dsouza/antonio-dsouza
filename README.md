@@ -10,7 +10,7 @@
 
 - 📚 Learning about ReactJS and NextJS;
 
-- 🔭 I’m currently working as a junior programmer at La Salle University.
+- 🔭 I’m currently working as a junior programmer at FazComex Tecnologia para Comércio Exterior.
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
